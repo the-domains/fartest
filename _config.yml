@@ -1,7 +1,7 @@
 name: FarTest
 favicon: null
-layout_spectrum: 0.1796225542202592
-typography_spectrum: 0.2186674694530666
+layout_spectrum: 1
+typography_spectrum: 0.16979
 title: Far Away
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ebf2fc'
+    - '#2f3b51'
+    - '#060407'
+    - '#ea844a'
+    - '#a7adb9'
   brandStrength: 0.5958920093253255
   lightness: 0.6900535502936691
   saturation: 0.41723397374153137
